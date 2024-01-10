@@ -1,5 +1,6 @@
 /////////////// DESIGN CODE
-
+// Name: Komal Joshi
+//Roll No.: 21PHC1R16
 /////////// Master
  
 `timescale 1ns / 1ps
